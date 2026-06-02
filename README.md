@@ -31,6 +31,9 @@ Este é um protótipo educacional de um scanner de objetos em tempo real utiliza
 git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
 cd NOME_DO_REPOSITORIO
 
+
+---
+
 ## Criar e Ativar Ambiente Virtual (Recomendado)
 # No Linux/macOS
 python3 -m venv venv
